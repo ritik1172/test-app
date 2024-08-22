@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+li{
+  list-style: none;
+  display: inline-block;
+  padding: 30px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
